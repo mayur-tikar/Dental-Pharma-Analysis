@@ -31,3 +31,6 @@ Working with Dental Pharma data analysis and creating Tableau Dashboard.
 
 ###  Tikar_Mayur_3_dashboard_022024.pdf
 -  This is the dashboard in PDF format that was exported from the Tableau tool.
+
+###  Tikar_Mayur_4_slide_show_022024.pptx
+-  Data Lifecycle for this project.
